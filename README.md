@@ -1,3 +1,7 @@
+## Fork of Meteor Client
+This is a fork of the Meteor Client.
+The text below is the same as the Readme of the Original Repo.
+
 
 <p align="center">
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
